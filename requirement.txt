@@ -1,9 +1,0 @@
-pandas
-openpyxl
-matplotlib
-plotly
-reportlab
-python-pptx
-python-docx
-streamlit
-Pillow
