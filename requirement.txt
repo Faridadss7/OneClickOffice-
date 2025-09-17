@@ -1,11 +1,9 @@
-Flask
-gunicorn
 pandas
 openpyxl
 matplotlib
+plotly
 reportlab
 python-pptx
 python-docx
 streamlit
-plotly
 Pillow
